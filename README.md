@@ -12,5 +12,7 @@ tar -zxf santa.tar.gz
 
 cd assets 
 
+pyrhon3 main.py
+
 <img src="Screenshot_20261117_172437_YouTube~2.jpg" alt="screenshot">
 
